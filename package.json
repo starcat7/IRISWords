@@ -1,0 +1,15 @@
+{
+  "name": "iriswords",
+  "version": "1.0.0",
+  "description": "IRIS Words PWA flashcard/quiz app",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
