@@ -1,0 +1,12 @@
+[
+  {
+    "id": "duo",
+    "title": "DUO 3.0",
+    "cover": "src/img/duo.jpg"
+  },
+  {
+    "id": "toeic_core",
+    "title": "TOEIC重要単語1000",
+    "cover": "src/img/toeic_core.jpg"
+  }
+]
