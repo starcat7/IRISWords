@@ -1,0 +1,18 @@
+{
+  "title": "DUO 3.0",
+  "sections": [
+    {
+      "name": "第1章",
+      "words": [
+        {
+          "word": ["vivid", "flown", "mute", "income"],
+          "meanings": ["生き生きとした", "くっきりした", "はっきりした", "新鮮な"]
+        },
+        {
+          "word": ["brave", "soft", "kind", "shy"],
+          "meanings": ["勇敢な", "柔らかい", "親切な", "恥ずかしがりな"]
+        }
+      ]
+    }
+  ]
+}
