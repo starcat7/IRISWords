@@ -1,0 +1,18 @@
+{
+  "title": "TOEIC重要単語1000",
+  "sections": [
+    {
+      "name": "Unit1",
+      "words": [
+        {
+          "word": ["abandon", "control", "gather", "prepare"],
+          "meanings": ["やめる", "管理する", "集める", "準備する"]
+        },
+        {
+          "word": ["achieve", "avoid", "follow", "complete"],
+          "meanings": ["達成する", "避ける", "従う", "完了する"]
+        }
+      ]
+    }
+  ]
+}
